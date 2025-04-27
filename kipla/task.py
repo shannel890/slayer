@@ -46,3 +46,6 @@
 #     x_str = str(x)
 #     return x_str == x_str[::-1]
 # print(is_palindrome(121))
+
+for i in range(1,6):
+    print(i)
